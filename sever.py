@@ -5,8 +5,5 @@ int d = 40;
 int e = 50;
 int f = 60;
 int g = 70;
-int h = 80;
-int i = 90;
-int j = 100;
 
-print(a,b,c,d,e,f,g,h,i,j);
+print(a,b,c,d,e,f,g);
